@@ -9,4 +9,4 @@ USAGE:
 fill in the parameters for the day that you began staking (DATE_OF_FIRST_STAKE_REWARD), 
 total ADA staked (ORIGINAL_ADA_SUM) and your windows username (USERNAME). 
 
-The program assumes that you used the default folder to store the csv files.
+The program assumes that you used the default folder to store the csv files and didn't change the default file names.
